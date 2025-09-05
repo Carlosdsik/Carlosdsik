@@ -2,7 +2,7 @@
 # Olá, me chamo Carlos ! 
 - 🌱 Atualmente estou aprendendo programação
 - 🔭 estou estudando para a prova do ENEM
-- 😄 Pronomes: Ele, dele
+- 😄 Idade: Tenho 18 anos
 - 🤔 Estou procurando ajuda com Física e Química
 - ⚡ Curiosidade: Sou Cruzeirense, faço academia e gosto de jogar ETS2
 - ## Estou aprendendo
