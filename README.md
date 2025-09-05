@@ -2,7 +2,7 @@
 Meu nome é Carlos, estudo programação, gosto de aprender HTML e CSS. Habilidades: HTML e CSS
 # Olá, me chamo Carlos ! 
 - 🌱 Atualmente estou aprendendo programação
-- 🔭 Atualmente estou estudando para a prova do ENEM
+- 🔭 estou estudando para a prova do ENEM
 - 😄 Pronomes: Ele, dele
 - 🤔 Estou procurando ajuda com Física e Química
 - ⚡ Curiosidade: Sou Cruzeirense, faço academia e gosto de jogar ETS2
